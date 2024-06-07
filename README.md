@@ -1,2 +1,2 @@
-# restataurants
+# restaurants
 hotels
